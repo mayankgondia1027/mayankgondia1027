@@ -69,12 +69,12 @@ I’m a **Data Analyst** passionate about **turning data into actionable insight
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### **Analytical Skills**  
-![Data Cleaning](https://img.shields.io/badge/-Data%20Cleaning-FF6F61?style=for-the-badge&logo=data:image/png;base64) 
-![EDA](https://img.shields.io/badge/-EDA-6A5ACD?style=for-the-badge&logo=data:image/png;base64) 
-![Insight Generation](https://img.shields.io/badge/-Insight%20Generation-20B2AA?style=for-the-badge&logo=data:image/png;base64) 
-![Descriptive Stats](https://img.shields.io/badge/-Descriptive%20Stats-FF8C00?style=for-the-badge&logo=data:image/png;base64) 
-![Data Modeling](https://img.shields.io/badge/-Data%20Modeling-8A2BE2?style=for-the-badge&logo=data:image/png;base64) 
-![ETL](https://img.shields.io/badge/-ETL-228B22?style=for-the-badge&logo=data:image/png;base64)
+![Data Cleaning](https://img.shields.io/badge/-Data%20Cleaning-FF6F61?style=for-the-badge)
+![EDA](https://img.shields.io/badge/-EDA-6A5ACD?style=for-the-badge)
+![Insight Generation](https://img.shields.io/badge/-Insight%20Generation-20B2AA?style=for-the-badge)
+![Descriptive Stats](https://img.shields.io/badge/-Descriptive%20Stats-FF8C00?style=for-the-badge)
+![Data Modeling](https://img.shields.io/badge/-Data%20Modeling-8A2BE2?style=for-the-badge)
+![ETL](https://img.shields.io/badge/-ETL-228B22?style=for-the-badge)
 ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-8A2BE2?style=for-the-badge&logo=databricks&logoColor=white)
 ![Business Insights](https://img.shields.io/badge/Business%20Insights-2F4F4F?style=for-the-badge&logo=bar-chart&logoColor=white)
 ![Data Cleaning & Transformation](https://img.shields.io/badge/Data%20Cleaning%20%26%20Transformation-4682B4?style=for-the-badge&logo=powerbi&logoColor=white)
@@ -86,38 +86,96 @@ I’m a **Data Analyst** passionate about **turning data into actionable insight
 ![LeetCode](https://img.shields.io/badge/-LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white) 
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white) 
 
+---
+
+### 🛒 Blinkit - India’s Last Minute App
+**Tools: SQL • Power BI • Excel | 07/2025 – 08/2025**
+- Analyzed 8,523 items generating $1.2M revenue using Power BI dashboards.
+- Developed KPIs: Total & Avg Sales, Item Count, and Avg Rating with dynamic filters.
+- Designed interactive dashboards with drill-down analysis by Outlet, Product, and Location.
+- Insights:
+- 🏪 Tier 3 outlets led total sales ($72.1K).
+- 🧈 Regular fat products dominated revenue ($776.3K).
+- 🏬 Supermarket Type 1 recorded highest outlet sales ($787.5K).
+- Recommendations: Improved inventory planning and targeted regional outlet expansion.
 
 ---
 
-## 📊 Featured Projects  
-
-### 🟡 Blinkit – India’s Last Minute App  
-**Tools:** SQL • Power BI • Excel | *07/2025 – 08/2025*  
-- Analyzed **8,523 items ($1.2M revenue)** using Power BI; developed KPIs: Total & Avg Sales, Items Sold, Avg Rating.  
-- Designed interactive dashboard with drill-down by outlet, product, and location.  
-- Key insights: Tier 3 outlets led sales ($72.1K); regular fat products top revenue ($776.3K); Supermarket Type 1 highest outlet sales ($787.5K).  
-- Recommended inventory planning and regional outlet expansion.  
-
----
-
-### 🚖 Uber Trip Analysis Dashboard  
-**Tools:** SQL • Power BI • Excel | *06/2025 – 07/2025*  
-- Built dashboard monitoring **103.7K trips ($1.6M revenue)**; average booking $15, 3 miles per trip, 16 minutes per trip.  
-- Analyzed demand: 65% day and 35% night trips; UberX is the top vehicle (38.7K bookings, $583.9K revenue).  
-- Identified top pickup (Penn Station) & drop-off (Upper East Side North) locations.  
-- Payment insights: Uber Pay 67%, Cash 32%; guided digital wallet strategy.  
-- Observed peak times: morning (7-9 AM) and evening (5-7 PM); Fridays & Sundays highest volumes.  
-- Dashboard features: KPI cards, filters, heatmaps, geo-maps.  
+### 🚗 Uber - Trip Analysis Dashboard
+**Tools: SQL • Power BI • Excel | 06/2025 – 07/2025**
+- Built an analytical dashboard tracking 103.7K trips worth $1.6M revenue.
+- Defined KPIs: Avg Booking Value ($15), Trip Distance (3 mi), Trip Duration (16 min).
+- Insights:
+- ⏰ Demand split: 65% Day vs 35% Night trips.
+- 🚘 Top vehicle: UberX – 38.7K bookings, $583.9K revenue.
+- 📍 Top pickup: Penn Station | Top drop-off: Upper East Side North.
+- 💳 Payment trends: 67% Uber Pay, 32% Cash → guided digital wallet strategy.
+- 📅 Peak hours: 7–9 AM & 5–7 PM; highest volumes on Fridays & Sundays.
+- Dashboard featured KPI cards, heatmaps, geo-maps, and time filters.
 
 ---
 
-### 📉 Customer Churn Analysis  
-**Tools:** Python (Pandas, NumPy, Matplotlib, Seaborn), Jupyter Notebook | *05/2025 – 06/2025*  
-- Analyzed behavior of **7,03 telecom customers** to identify churn patterns by tenure, contract type, and monthly charges.  
-- Engineered features: contract type buckets & tenure bands for improved segmentation.  
-- Created **11 visualizations** (histograms, box plots, heatmaps) highlighting churn-prone segments.  
-- Key finding: 38% churn among monthly contracts <3 months.  
-- Recommended early engagement strategies to reduce churn.  
+### 📉 Customer - Churn Analysis
+**Tools: Python (Pandas • NumPy • Matplotlib • Seaborn) | Jupyter Notebook | 05/2025 – 06/2025**
+- 👥 Analyzed 7,043 telecom customers to identify churn drivers by tenure, contract type, and monthly charges.
+- 🧩 Performed feature engineering by creating tenure bands and contract-type buckets to enhance segmentation.
+- 📊 Created 11 visualizations (histograms, boxplots, heatmaps) to uncover churn distribution patterns.
+- Key Findings:
+- 🔁 38% of churned users had monthly contracts under 3 months.
+- 💡 Recommendation: Launch early engagement campaigns targeting high-risk customers to minimize churn.
+
+---
+
+### 🥤 Coca-Cola 2022 Sales Dashboard
+**Tools: Power BI • Excel | 07/2025 – 08/2025**
+- 📊 Analyzed 16.2M units generating $7.75M revenue from Coca-Cola’s 2022 portfolio.
+- 📈 Built KPIs: Total Units, Revenue, Avg. Price per Unit ($0.48), and Profit Growth (10–12% MoM).
+- 🧩 Designed an interactive Power BI dashboard with filters, KPI cards, and heatmaps.
+- Insights:
+- 🏆 Top Product – Coca-Cola flagship: 4M units, $1.9M revenue, $92K August peak.
+- ⚡ Fastest Growth – Powerade with 11% MoM rise.
+- 🌍 Regional Trends – South + Southeast = 50% transactions; West leads in units sold.
+- ☀️ Seasonal Peak – Summer months (Jun–Aug) yielded highest profits.
+- 💡 Recommendation: Seasonal promotions & optimized inventory for high-demand regions.
+
+---
+
+### 🗳️ India General Elections 2024 Analysis Dashboard
+**Tools: SQL • MySQL • Power BI • Excel | 08/2025 – 09/2025**
+- 🧮 Visualized results of 543 constituencies from the 2024 General Elections using Power BI.
+- 📊 NDA: 292 seats (54%) → majority | INDIA Alliance: 234 (43%) | Others: 17 (3%).
+- 🟠 BJP: 240 seats | 🔵 INC: 99 seats → indicating regional revival.
+- 🏁 Avg. winning margin ≈ 100K votes | Biggest win: Ahmedabad East (461K) | Closest: Aligarh (15K).
+- 🌏 Regional Trends: NDA strong in UP, Bihar, Central India; INDIA Alliance dominant in South & East.
+- 🗺️ Integrated geo-maps, alliance filters, and seat-share visuals to decode voter patterns.
+- 💡 Recommendation: Data-driven campaign optimization & coalition performance tracking.
+
+---
+
+### 🐍 Python – Multiple Data Analysis Projects
+**Tools: Python • Jupyter Notebook • Pandas • NumPy • Matplotlib • Seaborn | 01/2025 – Present**
+- Developed and documented 7 Jupyter Notebook projects for diverse business analytics use cases:
+- 🛒 Ecommerce_Sales_Analysis |
+- 🍕 Pizza_Sales_Performance_Analysis 
+- 🌍 Regional_Sales_Insights | 
+- 🏦 Banking_Data_Analytics | 
+- ⚡ Blinkit_Last_Minute_Sales_Analysis | 
+- 📉 Customer_Churn_Prediction_Analysis | 
+- 🏨 Hotel_Booking_Cancellation_Analysis
+- Implemented data cleaning, visualization, and feature engineering for actionable insights.
+
+---
+
+### 🧾 SQL Retail Sales Analytics
+**Tools: SQL • MySQL | 10/2025 – 10/2025**
+- 🧱 Built and optimized a Retail Sales database for automated analytics & reporting.
+- 🧮 Executed data cleaning, aggregation, and trend analysis using window and CTE functions.
+- Explored Key Metrics:
+- 👥 Customer counts, top categories, and age-based average sales.
+- 💰 High-value transactions (>$1000), gender & category sales trends.
+- ⏰ Time-based performance and shift patterns (Morning/Afternoon/Evening).
+- 🏅 Top 5 customers identified by total spend.
+- 💡 Insights Delivered: Highlighted top-performing months, most profitable categories, and key behavioral trends.
 
 ---
 
