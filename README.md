@@ -133,10 +133,7 @@ I’m a **Data Analyst** passionate about **turning data into actionable insight
 
 <!--## 📊 Activity Graph -->
 <!-- GIF Header -->
-<div align="center">
-  <img src="https://media.giphy.com/media/3orieXYaV2Z0XjvP3S/giphy.gif" width="200" alt="Data GIF"/>
-  <h2 style="color:#8A2BE2;">📊 My GitHub Activity</h2>
-</div>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGgwbWpid3JycW56ZzVlcGc2aWExMzN3M25qY25pNzRoYjNqNWNobSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/d56Di5yqBRq9KnSZX6/giphy.webp" width="35">&nbsp;***Activity Graph*** 
 
 <!-- Activity Graph with hover effect -->
 <div align="center">
@@ -150,8 +147,6 @@ I’m a **Data Analyst** passionate about **turning data into actionable insight
     />
   </a>
 </div>
-
-
 
 ---
 
