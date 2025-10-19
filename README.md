@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Mayank Gondia  
+
 ### 🧠 Data Analyst | Business Intelligence Enthusiast | SQL • Python • Power BI  
 
 [![Profile Views](https://komarev.com/ghpvc/?username=mayankgondia1027&color=blueviolet)](https://github.com/mayankgondia1027)
@@ -8,93 +9,93 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00C4CC&lines=Turning+Data+into+Decisions+📊;Analyzing%2C+Automating%2C+and+Visualizing+Insights.;Passionate+about+Business+Intelligence+and+Data+Storytelling.)](https://git.io/typing-svg)
+## 📬 Contact  
+
+- **Email:** [mayankgondia18@gmail.com](mailto:mayankgondia18@gmail.com)  
+- **Phone:** +91-7404833775  
+- **LinkedIn:** [linkedin.com/in/mayank-gondia1027](https://www.linkedin.com/in/mayank-gondia1027)  
+- **GitHub:** [github.com/mayankgondia1027](https://github.com/mayankgondia1027)  
+- **LeetCode:** [leetcode.com/u/mayankgondia](https://leetcode.com/u/mayankgondia/)  
+- **Location:** Rohtak, Haryana, India  
 
 ---
 
-## 👤 About Me  
+## 📝 Summary  
 
-I’m a **Data Analyst** passionate about exploring patterns, optimizing performance, and delivering business impact through **data-driven insights**.  
-My focus lies in leveraging **SQL, Power BI, Python, and Excel** to clean, analyze, and visualize complex data efficiently.  
-I enjoy solving real-world problems with numbers — transforming raw data into actionable intelligence that drives growth and smarter decisions.  
+I’m a **Data Analyst** who loves working with numbers and uncovering stories hidden in data. I specialize in **statistical analysis, data visualization, and business intelligence**, transforming complex datasets into actionable insights that drive **business growth and operational efficiency**.  
 
-🎯 *Currently pursuing MCA at MDU University, Rohtak*  
-💡 *Practicing advanced SQL queries (joins, CTEs, optimization) on LeetCode*  
-🚀 *Aspiring to build impactful BI dashboards and predictive analytics projects*
-
----
-
-## 🛠️ Skills & Tools  
-
-### **Programming & Querying**
-`Python` • `SQL` • `Java` • `HTML` • `CSS` • `JavaScript` • `C/C++`
-
-### **Frameworks & Libraries**
-`Pandas` • `NumPy` • `Matplotlib` • `Seaborn`
-
-### **Data Visualization & BI Tools**
-`Power BI` • `Advanced Excel` • `Jupyter Notebook` • `VS Code`
-
-### **Analytical Skills**
-`Data Cleaning` • `EDA` • `Insight Generation` • `ETL (Extract, Transform, Load)` • `Descriptive Statistics`
-
-### **Platforms**
-`GitHub` • `LeetCode` • `Microsoft 365`
+- Proficient in **SQL, Python, Power BI, and Excel** for data cleaning, ETL, analysis, dashboards, and reporting.  
+- Strong in identifying trends, improving processes, and supporting **data-driven decision-making** through KPIs and performance metrics.  
+- Passionate about leveraging **analytics, automation, and predictive insights** to solve business challenges and deliver measurable results.  
+- Practicing **advanced SQL problems** (joins, CTEs, subqueries, optimization) on LeetCode.  
 
 ---
 
-## 📊 Featured Projects  
+## 🛠️ Skills  
 
-### 🟡 **Blinkit – India’s Last Minute App**
-**Tools:** SQL • Power BI • Excel  
-- Analyzed **8,523 items** worth **$1.2M** in revenue using Power BI.  
-- Designed KPIs like *Total & Avg Sales, Avg Rating, Items Sold*.  
-- Found **Tier 3 outlets** led with **$72.1K sales**, and *Regular Fat Products* topped at **$776.3K revenue**.  
-- Recommended data-driven **inventory planning & regional expansion**.  
+### **Programming & Querying**  
+Python • SQL • Java • HTML • CSS • JavaScript • C • C++  
 
----
+### **Frameworks & Libraries**  
+Pandas • NumPy • Matplotlib • Seaborn  
 
-### 🚖 **Uber Trip Analysis Dashboard**
-**Tools:** SQL • Power BI • Excel  
-- Built dashboard for **103.7K trips** generating **$1.6M revenue**.  
-- Identified peak hours (7–9 AM & 5–7 PM) and top locations (*Penn Station ➜ Upper East Side*).  
-- Found **UberX** as most used vehicle type — **38.7K bookings ($583.9K)**.  
-- Guided **payment optimization** (Uber Pay 67%, Cash 32%) and trip pattern analysis.  
+### **Data Visualization & BI Tools**  
+Power BI • Advanced Excel • Jupyter Notebook • VS Code  
 
----
+### **Analytical Abilities**  
+Data Cleaning • EDA (Exploratory Data Analysis) • Insight Generation • Descriptive Statistics • Data Modeling • ETL (Extract, Transform, Load)  
 
-### 📉 **Customer Churn Analysis**
-**Tools:** Python (Pandas, NumPy, Seaborn, Matplotlib)  
-- Explored **7K+ telecom customers** to detect churn trends.  
-- Created visual insights across **contract types, tenure, and charges**.  
-- Found **38% churn among short-term monthly users (<3 months)**.  
-- Suggested early retention strategies to reduce churn rates.  
+### **Platforms**  
+GitHub • Problem Solving on LeetCode  
 
 ---
 
 ## 🎓 Education  
 
-🎓 **Master of Computer Applications (MCA)**  
-*Maharshi Dayanand University, Rohtak (2024 – 2026)*  
+**Master of Computer Applications (MCA)**  
+*Maharshi Dayanand University, Rohtak | 09/2024 – 09/2026*  
 
-🎓 **Bachelor of Computer Applications (BCA)**  
-*Dronacharya Degree College, Kurukshetra University (2020 – 2023)*  
+**Bachelor of Computer Applications (BCA)**  
+*Dronacharya Degree College, Kurukshetra University | 11/2020 – 05/2023*  
 
 ---
 
 ## 🌍 Languages  
 
-- **English** — Proficient  
-- **German** — Intermediate  
+English — Proficient  
+German — Intermediate  
 
 ---
 
-## 📬 Connect with Me  
+## 📊 Featured Projects  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0072C6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayank-gondia1027)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mayankgondia1027)  
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayankgondia18@gmail.com)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/mayankgondia/)  
+### 🟡 Blinkit – India’s Last Minute App  
+**Tools:** SQL • Power BI • Excel | *07/2025 – 08/2025*  
+- Analyzed **8,523 items ($1.2M revenue)** using Power BI; developed KPIs: Total & Avg Sales, Items Sold, Avg Rating.  
+- Designed interactive dashboard with drill-down by outlet, product, and location.  
+- Key insights: Tier 3 outlets led sales ($72.1K); regular fat products top revenue ($776.3K); Supermarket Type 1 highest outlet sales ($787.5K).  
+- Recommended inventory planning and regional outlet expansion.  
+
+---
+
+### 🚖 Uber Trip Analysis Dashboard  
+**Tools:** SQL • Power BI • Excel | *06/2025 – 07/2025*  
+- Built dashboard monitoring **103.7K trips ($1.6M revenue)**; average booking $15, 3 miles per trip, 16 minutes per trip.  
+- Analyzed demand: 65% day and 35% night trips; UberX is the top vehicle (38.7K bookings, $583.9K revenue).  
+- Identified top pickup (Penn Station) & drop-off (Upper East Side North) locations.  
+- Payment insights: Uber Pay 67%, Cash 32%; guided digital wallet strategy.  
+- Observed peak times: morning (7-9 AM) and evening (5-7 PM); Fridays & Sundays highest volumes.  
+- Dashboard features: KPI cards, filters, heatmaps, geo-maps.  
+
+---
+
+### 📉 Customer Churn Analysis  
+**Tools:** Python (Pandas, NumPy, Matplotlib, Seaborn), Jupyter Notebook | *05/2025 – 06/2025*  
+- Analyzed behavior of **7,03 telecom customers** to identify churn patterns by tenure, contract type, and monthly charges.  
+- Engineered features: contract type buckets & tenure bands for improved segmentation.  
+- Created **11 visualizations** (histograms, box plots, heatmaps) highlighting churn-prone segments.  
+- Key finding: 38% churn among monthly contracts <3 months.  
+- Recommended early engagement strategies to reduce churn.  
 
 ---
 
