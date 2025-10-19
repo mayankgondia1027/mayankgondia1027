@@ -1,216 +1,209 @@
-## Hi there 👋
-# 🌐 Rajeev Tiwari | Official Website
 
-Welcome to my official website. 
-🌐 [rajeevgit8055hub.github.io/rajeevtiwari.github.io](https://rajeevgit8055hub.github.io/rajeevtiwari.github.io)
-
----
-
-## 📑 Table of Contents
-
-- <a href="#introduction">🧩 Introduction</a>  
-- <a href="#home-section">🏠 Home Section</a>  
-- <a href="#about-me">👤 About Me</a>  
-- <a href="#skills">🛠️ Skills</a>   
-- <a href="#resume-section">📄 Resume Section</a>  
-- <a href="#education">🎓 Education</a>  
-- <a href="#projects">📊 Projects</a>  
-- <a href="#final-words">🎯 Final Words</a>  
-- <a href="#contact">📬 Connect with Me</a>  
-- <a href="#website-preview">🖼️ Website Preview</a>  
-
----
-
-## <span id="introduction">🧩 Introduction</span> 
-
-🚀 I’m thrilled to announce the successful launch of my official website!
-
-This platform is more than just a digital profile — it’s a meaningful reflection of my transition from a humanities background to a data-driven professional path. Through this website, I aim to present not only my technical growth but also the mindset, effort, and passion behind the journey.
-
-Here, you’ll find a curated showcase of:
-
-- 🎓 My academic achievements and technical certifications
-- 💡 My evolving skills in Excel, SQL, Power BI, Power Query, Access, Python, and more
-- 🛠️ Real-world projects that demonstrate hands-on problem-solving
-- 🎨 Creative coding experiments that blend logic with design
-
-As an enthusiastic and consistent learner, I’ve built this website as a step toward enhancing my visibility, sharing my progress, and connecting with like-minded professionals. It stands as both a resume in action and a canvas of my continuous learning.
-
-🔍 Explore how skills, storytelling, and data come together to define my journey toward becoming an industry-ready Data Analyst.
-
----
-
-## <span id="home-section">🏠 Home Section</span> 
-
-The homepage serves as a digital handshake — a warm welcome into my professional identity. It briefly introduces me as a data enthusiast from Prayagraj, Uttar Pradesh, India, driven by a purpose to translate raw data into meaningful actions.
-
-Here, you'll get a glimpse of:
-
-- My professional focus as an aspiring Data Analyst.
-- My vision of using data to make ethically sound, smart decisions.
-- A dynamic mindset focused on discipline, curiosity, and growth.
-
-This section sets the tone for the full portfolio experience — informative, insightful, and innovative.
-
----
-
-## <span id="about-me">👤 About Me</span> 
-
-In this section, I open up about my academic origin and technical evolution.
-
-I hold a Master's degree in Arts but ventured beyond my comfort zone to step into the world of Data and Analytics. What started as curiosity soon turned into a mission: to develop real-world skills and build a strong portfolio rooted in practicality and impact.
-
-Highlights:
-
-- Gained expertise in tools like **SQL, Power BI, Tableau, Excel, Power Query, Power Pivot, Microsoft, Access**, and **Tally Prime with GST**.
-- Currently building on my skill set with **Python**.
-- I value professionalism, purpose-driven work, and helping others grow — whether through collaboration, mentoring, or shared learning.
-
----
-
-## <span id="skills">🛠️ Skills</span> 
-
-This section categorizes my technical and soft skills, backed by real-world application in projects.
-
-### 🔧 Technical Tools & Technologies
-
-- **Microsoft Excel**: Data cleaning, MIS dashboards, advanced formulas, pivot tables.
-- **Power Query & Power Pivot**: ETL tasks, data transformation, multi-file cleaning.
-- **SQL (PostgreSQL)**: Writing complex queries, joins, subqueries, data insights.
-- **Access Database**: Creating relational models, forms, queries, reports.
-- **Power BI**: Building interactive dashboards and reports (ongoing).
-- **Tableau**: Building interactive dashboards and reports (ongoing).
-- **Python**: Data manipulation with pandas, logic building, automation.
-- **Excel VBA**: Automating repetitive workflows and enhancing Excel functionality.
-- **HTML/CSS**: UI design and creative front-end effects.
-
-### 🤝 Soft Skills
-
-- Excellent written and spoken communication in **Hindi & English**.
-- Self-discipline, consistency, and a focused mindset.
-- Adaptive learner with strong problem-solving intuition.
-- Mentoring and teaching capabilities, especially for non-tech learners.
-
----
-
-## <span id="resume-section">📄 Resume Section</span> 
-
-My resume is crafted to be a precise reflection of my current abilities, learning trajectory, and project experience.
-
-What it includes:
-
-- My academic background and technical certifications.
-- Practical project-based exposure across multiple domains.
-- Core skill sets, both technical and analytical.
-- A career objective centered on growing as a data analyst in real-time, impactful environments.
-
-The resume is available in downloadable format for recruiters and collaborators directly via the website.
-
----
-
-## <span id="education">🎓 Education</span> 
-
-I believe education is both formal and ongoing. Here's a snapshot of my academic credentials and certifications:
-
-- 🎓 **MA – Master of Arts** from **University of Allahabad** (First Division).
-- 💻 **ADCA** – Advanced Diploma in Computer Application.
-- 📒 **Tally Prime with GST** – Certified for business accounting with GST compliance.
-- 🖥️ **CCC (NIELIT)** – Strong foundation in digital literacy and productivity tools.
-- 🗄️ **SQL (PostgreSQL)** – Skilled in database management, querying, and data analysis.
-- 📊 **Power BI** – Proficient in building interactive dashboards and data visualizations.
-- 🐍 **Python** – Learning for data cleaning, automation, and scripting tasks.
-
----
-
-## <span id="projects">📊 Projects</span> 
-
-Real learning comes from doing. My portfolio includes hands-on, practical projects in a variety of tools:
-
-### 🗄️ SQL Projects
-
-- **SQL-Project-on-Online-Book-store** – SQL queries on book inventory, orders, and customers.  
-- **NETFLIX-Data-SQL-Analysis** – Analysis of movies, users, and viewing patterns.  
-- **Hospital-Data-SQL-Analysis-Project** – Patient records and hospital operations insights.  
-
-### 📈 Excel Projects
-
-- **Hospital-Emergency-Room-Dashboard** – Visualizing patient flow and emergencies.  
-- **E-commerce-Sales-Dashboard-Analysis** – Tracking sales trends and KPIs.  
-- **Retail-Sales-Dashboard-Analysis** – Store performance and product analysis.  
-
-### ⚡ Power Query Projects
-
-- **Power_Query-Messy-Rows-Cleaning-Project** – Cleaning and restructuring messy datasets.  
-- **Unified-Multi-Extension-Folder-Based-Data-Cleaning** – Combining and cleaning multi-format files.  
-
-### 🛢️ Access Database Projects
-
-- **SmartBite-Online-Food-Delivery-DBMS** – Database for food orders, customers, and delivery tracking.  
-
-### 📊 Power BI Projects 
-
-- **Motorola-Sales-BI-Dashboard-Analysis** – Mobile sales performance insights and trends.  
-- **Nescafe-Driving-Coffee-Sales-Excellence** – Coffee sales analytics for growth strategy.  
-- **Amazon-Global-Business-Analytics** – Global business KPIs and performance monitoring.  
-- **Blinkit-Grocery-Analysis** – Grocery sales and demand pattern analysis.  
-
-### 📉 Tableau
-
-- **HSBC-Strategic-Stakeholder-Intelligence** – Insights on HSBC stakeholders and decision-making.  
-
-### 📝-HTML/ 🎨-CSS/ 🛠️-JavaScript Projects
-
-- **Dynamic-Neon-Glow-Website (rajeevtiwari.github.io)** – Personal portfolio website with glowing effects.  
-- **3D-Solar-System-Interactive-Animation** – An immersive cosmic model with rotating planets & interactive orbits.
-- **LoveForever-A-Heartfelt-Digital-Promise** – A heartfelt digital creation symbolizing love & togetherness.
-
-### 🐍 Python
-
-- **Data Cleaning with pandas**
-- **Pattern Printing & Loops**
-- **Mini EDA Projects**
-
-Each project is GitHub-hosted, with documentation, screenshots, and versioning.
-
----
-
-## <span id="final-words">🎯 Final Words</span> 
-
-This website is my **career in motion** — a canvas where I paint with data, logic, visuals, and code.
-
-It reflects:
-
-- 📘 My journey from arts to analytics
-- ⚙️ My practical understanding of data tools
-- 💡 My ability to think creatively in technical domains
-- 🌱 My commitment to growth, one project at a time
-
-Thanks for exploring! I look forward to your feedback, support, and future collaborations. 🚀
-
----
-
-## <span id="contact">📬 Connect with Me</span> 
-
-If you're looking for:
-
-- A beginner-friendly analyst to assist with real-world projects
-- A dedicated learner for internships or mentorship programs
-- A team player who values consistency and ownership
-
-Then let’s connect:
-
-- ✖️ **X**: [@rajeevtiwari](https://x.com/rajeevtiwariRT) 
-- 📧 **Email**: [rajeevtiwari8055@gmail.com](mailto:rajeevtiwari8055@gmail.com)
-- 💻 **GitHub**: [github.com/rajeevgit8055hub](https://github.com/rajeevgit8055hub)  
-- 💼 **LinkedIn**: [linkedin.com/in/rajeev-tiwari123](https://www.linkedin.com/in/rajeev-tiwari123)  
-- 🌐 **Website**: [rajeevgit8055hub.github.io/rajeevtiwari.github.io](https://rajeevgit8055hub.github.io/rajeevtiwari.github.io/)  
-
-🤝 *Thanks for visiting my profile!*  
-
----
-
-## <span id="website-preview">🖼️ Website Preview</span> 
-
-![Website – Main Preview](Website.png)
-
----
+# Hi, i'm_rajeev
+Data enthusiast exploring real-world solutions through Excel automation & BI tools.
+
+<!-- Header Section -->
+
+[![Profile Views](https://komarev.com/ghpvc/?username=rajeevgit8055hub&color=blueviolet)](https://github.com/rajeevgit8055hub)
+[![Followers](https://img.shields.io/github/followers/rajeevgit8055hub?label=Followers&style=social)](https://github.com/rajeevgit8055hub?tab=followers)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=rajeevgit8055hub.rajeevgit8055hub)
+![Open Source](https://img.shields.io/badge/OS-Contributor-217346?style=for-the-badge&labelColor=00C4CC)
+![Repositories](https://img.shields.io/badge/Repositories-23-F29111?style=for-the-badge&labelColor=D83B01)
+
+<!-- Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0DAD8D&lines=👋+Hi+everyone!;I'm+passionate+data+enthusiast.;Actively+developing+skills+in+Data+Analysis+and+Business+Intelligence.;Working+with+SQL,+Excel,+Power+BI,+and+real-world+datasets.)](https://git.io/typing-svg)
+
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
+
+<!-- <img align="right" alt="Boy working on computer" width="350" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" /> -->
+
+<!-- 👤 About Me -->
+## 👤 About Me
+
+<img align="right" alt="Boy working on computer" width="350" src="BlackBoy.jpg" /> 
+
+I’m passionate about turning raw data into meaningful business insights.
+With strong expertise in Microsoft 365 and growing proficiency in modern data tools like
+Power BI, SQL, and Python, I focus on optimizing reports, automating workflows,
+and driving smarter business decisions. I’m committed to continuous learning
+and delivering data-driven solutions that create real business impact.
+
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
+
+<!-- 🚀 My Mission  -->
+## 🚀 My Mission 
+
+<img align="right" alt="Boy working on computer" width="350" src="BlackG.gif" />
+
+- To simplify complex data for easy interpretation.
+- To fulfill my dream of becoming a proficient Data Analyst.
+- To create professional and automated reporting systems.
+- To continuously learn and apply new data technologies.
+- To contribute to data-driven decision making in organizations.
+
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
+
+<!-- 💻 My Skills -->
+## 💻 My Skills
+
+<img align="right" alt="Boy working on computer" src="MySkills.png" />
+
+![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power_Query-4F85C9?style=for-the-badge&logo=microsoft-powerquery&logoColor=white)
+![Access](https://img.shields.io/badge/MS%20Access-B22222?style=for-the-badge&logo=microsoft-access&logoColor=white)
+![Power Pivot](https://img.shields.io/badge/Power_Pivot-0078D7?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-D24726?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+![MIS Reporting](https://img.shields.io/badge/MIS_Reporting-F57C00?style=for-the-badge&logo=analytics&logoColor=white)
+![VBA](https://img.shields.io/badge/VBA-865A33?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-F29111?style=for-the-badge&logo=postgresql&logoColor=white)
+![Outlook](https://img.shields.io/badge/Outlook-0072C6?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoft-powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-8A2BE2?style=for-the-badge&logo=databricks&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Business Insights](https://img.shields.io/badge/Business%20Insights-2F4F4F?style=for-the-badge&logo=bar-chart&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+[![GitHub](https://img.shields.io/badge/GitHub-4B0082?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajeevgit8055hub)
+![Data Cleaning & Transformation](https://img.shields.io/badge/Data%20Cleaning%20%26%20Transformation-4682B4?style=for-the-badge&logo=powerbi&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E44D26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-264DE4?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<!-- ![Word](https://img.shields.io/badge/Word-0078D7?style=for-the-badge&logo=microsoft-word&logoColor=white) -->
+<!-- ![CHMT](https://img.shields.io/badge/CHMT-008080?style=for-the-badge&logo=read-the-docs&logoColor=white) -->
+<!--![Publisher](https://img.shields.io/badge/Publisher-FFB000?style=for-the-badge&logo=microsoft-office&logoColor=white) -->
+<!--![OneNote](https://img.shields.io/badge/OneNote-4B3879?style=for-the-badge&logo=microsoft-onenote&logoColor=white) -->
+<!-- ![Tally Prime](https://img.shields.io/badge/Tally_Prime-FF5E00?style=for-the-badge&logo=currency-inr&logoColor=white) -->
+<!-- ![IoT](https://img.shields.io/badge/IoT-FF6F61?style=for-the-badge&logo=iot&logoColor=white) -->
+<!-- ![Python](https://img.shields.io/badge/Python-008080?style=for-the-badge&logo=python&logoColor=white) -->
+<!-- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) -->
+<!-- ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) -->
+<!-- ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) -->
+<!-- ![matplotlib](https://img.shields.io/badge/matplotlib-fc4f30?style=for-the-badge&logo=matplotlib&logoColor=white) -->
+<!-- ![seaborn](https://img.shields.io/badge/seaborn-1a73e8?style=for-the-badge&logo=seaborn&logoColor=white) -->
+
+<!-- ⚙️ Tools -->
+## ⚙️ Tools
+
+<p align="center"> 
+  <img  width="40" alt="Microsoft365" src="Microsoft365.svg">
+  <img  width="40" alt="Office_365" src="Office_365.svg">
+  <img  width="50" alt="Excel" src="Excel.svg">
+  <img  width="50" alt="MIS" src="MIS.svg">
+  <img  width="40" alt="Power Query" src="Power Query.svg">
+  <img  width="50" alt="Power Pivot" src="Power Pivot.svg">
+  <img  width="50" alt="Access" src="Access.svg">
+  <img  width="50" alt="PowerPoint" src="PowerPoint.svg">
+  <img  width="50" alt="Outlook" src="Outlook.svg">
+  <img  width="50" alt="OneNote" src="OneNote.svg"> 
+  <img  width="40" alt="Google Sheets" src="Google Sheets.svg">
+  <img  width="40" alt="Tableau" src="Tableau.svg">
+  <img  width="40" alt="Power BI" src="Power BI.svg">
+  <img  width="50" alt="HTML5" src="HTML5.svg">
+  <img  width="40" alt="CSS" src="CSS.svg">
+  <img  width="40" alt="Python" src="Python.svg">
+  <img  width="60" alt="PostgreSQL" src="PostgreSQL.svg">
+  <img  width="30" alt="SQL" src="SQL.svg">
+  <img  width="50" alt="Git" src="git-icon.svg">
+  <img  width="50" alt="Gitbash" src="git-bash.svg">
+  <img  width="50" alt="Github" src="github-icon-2.svg">
+  <img  width="80" alt="WPS Office" src="WPS Office.svg">
+  <img  width="60" alt="VBA" src="VBA.png">
+  <img  width="50" alt="OpenAI" src="OpenAI.svg">
+  <img  width="50" alt="Canva" src="Canva.svg">
+  <img  width="50" alt="Gmail" src="ColorGmail.svg">
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/> -->
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/> --> 
+  <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/> -->
+  <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" alt="Microsoft Excel" width="40" height="40"/> -->
+  <!-- <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="40" height="40"/> -->
+  <!-- <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40" height="40"/> -->
+  <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" alt="Microsoft 365" width="40" height="40"/> -->
+  <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="Git" width="40" height="40"/> -->
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> -->
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="30" height="30"/> -->
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> -->
+  <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="30" height="30"/> -->
+  <!-- <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" alt="MySQL" width="70" height="45"/> -->
+  <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" width="70" height="40"/> -->
+  <!-- <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="120" height="120"/> -->
+  <!--  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/logo-mark-lightbg.svg"      alt="SeaBorn"  width="40" height="40"/> --> 
+</p>
+
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
+
+<!-- ## 💫 Things I Love -->
+## 💫 Things I Love
+
+  <img  width="60" alt="Google" src="LinkedIN.svg">
+  <img  width="60" height="40" alt="Coca Cola" src="Coca Cola.svg">
+  <img  width="60" alt="Yamaha" src="Yamaha.svg">
+  <img  width="60" alt="Coffee" src="Nestle.svg">
+  <img  width="50" alt="Computer" src="Computer.svg">
+  <img  width="60" alt="Computer" src="CHMT.svg">
+  <img  width="60" alt="Excel" src="Excelold.svg">
+
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
+   
+<!-- ## 📬 Connect with Me -->
+## 📬 Connect with Me
+
+<!-- <img align="right" alt="GitCover" src="NeonGlobe.jpg" /> -->
+<img alt="GitCover" src="NeonGlobe1.jpg" />
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0DAD8D&lines=Let’s+connect+and+collaborate+on+meaningful+projects!;Reach+me+via+X,+LinkedIn,+GitHub,+Email+or+my+Website+🌐;Click+the+buttons+below+to+connect+with+me+directly!)](https://git.io/typing-svg)
+
+[![X](https://img.shields.io/badge/X-FFFFFF?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/rajeevtiwariRT)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0072C6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajeev-tiwari123)
+[![GitHub](https://img.shields.io/badge/GitHub-4B0082?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajeevgit8055hub)
+[![Email](https://img.shields.io/badge/Email-B22222?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajeevtiwari8055@gmail.com)
+[![Website](https://img.shields.io/badge/Website-008080?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rajeevgit8055hub.github.io/rajeevtiwari.github.io/)
+<!-- <a href="https://www.linkedin.com/in/rajeev-tiwari123"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30"/></a>
+<a href="rajeevtiwari8055@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="30" height="30"/>
+</a> -->
+
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
+
+<!-- ## 📊 GitHub Stats -->
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Github Stats***
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajeevgit8055hub&show_icons=true&theme=midnight-purple)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajeevgit8055hub&layout=compact&theme=midnight-purple)
+
+<!--## 📊 GitHub Streak -->
+<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajeevgit8055hub&theme=dark) -->
+<!--![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajeevgit8055hub&theme=dark&background=000000&ring=BA68C8&fire=BA68C8&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA) -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajeevgit8055hub&theme=dark&background=000000&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA)
+
+<!-- ![GitHub Streak](https://github-readme-streak-stats-username.vercel.app/rajeevgit8055hub?theme=dark)
+![GitHub Streak](https://github-readme-streak-stats-username.vercel.app/rajeevgit8055hub?theme=dark&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajeevgit8055hub&theme=dark) 
+ [https://github-readme-streak-stats.herokuapp.com/?user=rajeevgit8055hub&theme=dark](https://github-readme-streak-stats-username.vercel.app/<YOUR_GITHUB_USERNAME>?theme=dark
+) -->
+
+<!--## 📊 Activity Graph -->
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGgwbWpid3JycW56ZzVlcGc2aWExMzN3M25qY25pNzRoYjNqNWNobSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/d56Di5yqBRq9KnSZX6/giphy.webp" width="35">&nbsp;***Activity Graph*** 
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajeevgit8055hub&theme=nightowl&bg_color=000000&hide_border=true"/>
+</div>
+<!-- <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajeevgit8055hub&theme=nightowl"/>
+</div> -->
+
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
+
+<!-- Typing Animation / 🤝 Thanks for Visiting! -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8A2BE2&lines=🤝Thank+you+for+visiting+my+GitHub+profile!;Let’s+connect+and+grow+together+in+the+data+world+🚀;Feel+free+to+check+out+my+repositories+and+ongoing+projects.)](https://git.io/typing-svg)
+
+<!-- Dynamic Repositories Badge (Enable Later) -->
+<!-- ![Repositories](https://img.shields.io/github/repo-count/rajeevgit8055hub?color=blue&style=for-the-badge) -->
+<!--my_image ![GitHub Contributions](https://github.com/rajeevgit8055hub.png?tab=overview&theme=midnight-purple) -->
+
+<img width="500" alt="GitCover" src="Power.gif" />
+
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
