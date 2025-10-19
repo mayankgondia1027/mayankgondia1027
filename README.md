@@ -14,7 +14,12 @@
 
 ---
 
-## 📬 Contact  
+## 📬 Connect with Me
+
+![Programming](https://images.unsplash.com/photo-1518770660439-4636190af475?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0DAD8D&lines=Let’s+connect+and+collaborate+on+meaningful+projects!;Reach+me+via+X,+LinkedIn,+GitHub,+Email+or+my+Website+🌐;Click+the+buttons+below+to+connect+with+me+directly!)](https://git.io/typing-svg)
+
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayankgondia18@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0072C6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayank-gondia1027)  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mayankgondia1027)  [![LeetCode](https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/mayankgondia/)  
 📍 Rohtak, Haryana, India  
@@ -84,56 +89,6 @@ I’m a **Data Analyst** passionate about **turning data into actionable insight
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white) 
 
 
-## ⚙️ Tools
-
-<p align="center"> 
-  <img  width="40" alt="Microsoft365" src="Microsoft365.svg">
-  <img  width="40" alt="Office_365" src="Office_365.svg">
-  <img  width="50" alt="Excel" src="Excel.svg">
-  <img  width="50" alt="MIS" src="MIS.svg">
-  <img  width="40" alt="Power Query" src="Power Query.svg">
-  <img  width="50" alt="Power Pivot" src="Power Pivot.svg">
-  <img  width="50" alt="Access" src="Access.svg">
-  <img  width="50" alt="PowerPoint" src="PowerPoint.svg">
-  <img  width="50" alt="Outlook" src="Outlook.svg">
-  <img  width="50" alt="OneNote" src="OneNote.svg"> 
-  <img  width="40" alt="Google Sheets" src="Google Sheets.svg">
-  <img  width="40" alt="Tableau" src="Tableau.svg">
-  <img  width="40" alt="Power BI" src="Power BI.svg">
-  <img  width="50" alt="HTML5" src="HTML5.svg">
-  <img  width="40" alt="CSS" src="CSS.svg">
-  <img  width="40" alt="Python" src="Python.svg">
-  <img  width="60" alt="PostgreSQL" src="PostgreSQL.svg">
-  <img  width="30" alt="SQL" src="SQL.svg">
-  <img  width="50" alt="Git" src="git-icon.svg">
-  <img  width="50" alt="Gitbash" src="git-bash.svg">
-  <img  width="50" alt="Github" src="github-icon-2.svg">
-  <img  width="80" alt="WPS Office" src="WPS Office.svg">
-  <img  width="60" alt="VBA" src="VBA.png">
-  <img  width="50" alt="OpenAI" src="OpenAI.svg">
-  <img  width="50" alt="Canva" src="Canva.svg">
-  <img  width="50" alt="Gmail" src="ColorGmail.svg">
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/> -->
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/> --> 
-  <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/> -->
-  <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" alt="Microsoft Excel" width="40" height="40"/> -->
-  <!-- <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="40" height="40"/> -->
-  <!-- <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40" height="40"/> -->
-  <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" alt="Microsoft 365" width="40" height="40"/> -->
-  <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="Git" width="40" height="40"/> -->
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> -->
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="30" height="30"/> -->
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> -->
-  <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="30" height="30"/> -->
-  <!-- <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" alt="MySQL" width="70" height="45"/> -->
-  <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" width="70" height="40"/> -->
-  <!-- <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="120" height="120"/> -->
-  <!--  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/logo-mark-lightbg.svg"      alt="SeaBorn"  width="40" height="40"/> --> 
-</p>
-
-<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
-
-
 ---
 
 ## 📊 Featured Projects  
@@ -168,11 +123,35 @@ I’m a **Data Analyst** passionate about **turning data into actionable insight
 
 ---
 
-## 📈 GitHub Insights  
+## 📈 GitHub stats  
 
 ![Mayank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mayankgondia1027&show_icons=true&theme=midnight-purple)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mayankgondia1027&layout=compact&theme=midnight-purple)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mayankgondia1027&theme=dark&background=000000&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA)  
+
+---
+
+<!--## 📊 Activity Graph -->
+<!-- GIF Header -->
+<div align="center">
+  <img src="https://media.giphy.com/media/3orieXYaV2Z0XjvP3S/giphy.gif" width="200" alt="Data GIF"/>
+  <h2 style="color:#8A2BE2;">📊 My GitHub Activity</h2>
+</div>
+
+<!-- Activity Graph with hover effect -->
+<div align="center">
+  <a href="https://github.com/mayankgondia1027">
+    <img 
+      src="https://github-readme-activity-graph.vercel.app/graph?username=mayankgondia1027&theme=nightowl&bg_color=000000&hide_border=true" 
+      alt="Mayank's GitHub Activity Graph" 
+      style="transition: transform 0.3s; border-radius: 15px;"
+      onmouseover="this.style.transform='scale(1.05)'" 
+      onmouseout="this.style.transform='scale(1)'"
+    />
+  </a>
+</div>
+
+
 
 ---
 
