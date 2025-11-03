@@ -4,7 +4,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=mayankgondia1027&color=blueviolet)](https://github.com/mayankgondia1027)
 [![Followers](https://img.shields.io/github/followers/mayankgondia1027?label=Followers&style=social)](https://github.com/mayankgondia1027?tab=followers)
-![Repositories](https://img.shields.io/badge/Repositories-13-F29111?style=for-the-badge&labelColor=D83B01)
+![Repositories](https://img.shields.io/badge/Repositories-14-F29111?style=for-the-badge&labelColor=D83B01)
 ![Open Source](https://img.shields.io/badge/Open_Source-Contributor-008080?style=for-the-badge)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0DAD8D&lines=👋+Hi+everyone!;I'm+passionate+data+enthusiast.;Actively+developing+skills+in+Data+Analysis+and+Business+Intelligence.;Working+with+SQL,+Excel,+Power+BI,+and+real-world+datasets.)
